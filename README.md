@@ -35,3 +35,22 @@ https://arxiv.org/pdf/1505.08052.pdf
 -Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization [2018]
 https://arxiv.org/abs/1603.06560
 
+## Other Methods (Neural Architecture Search and related methods, works)-
+
+-Neural architecture search with reinforcement learning [2017]
+https://arxiv.org/abs/1611.01578
+
+-Freeze-thaw bayesian optimization [2014]
+https://arxiv.org/abs/1406.3896
+
+-Efficient neural architecture search via parame-ters sharing [2018]
+https://arxiv.org/abs/1802.03268
+
+-DARTS:  differentiable  architecture  search [2019]
+https://arxiv.org/pdf/1806.09055.pdf
+
+-Understanding and simplifyingone-shot architecture search [2018]
+http://proceedings.mlr.press/v80/bender18a/bender18a.pdf
+
+-Speeding up automatic hyperparameter optimization ofdeep neural networks by extrapolation of learning curves [2015]
+https://ml.informatik.uni-freiburg.de/papers/15-IJCAI-Extrapolation_of_Learning_Curves.pdf
